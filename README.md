@@ -1,2 +1,3 @@
 # RSPL_internship
 Detergent Quality Analysis
+Conducted detailed chemical quality testing of detergent components, including active matter, sodium carbonate, and acid slurry, using volumetric analysis, titration techniques, and standard reagents. Performed analytical measurements such as foam height, whiteness index, bulk density, and specific gravity, gaining hands-on lab experience in physical property determination. Prepared and calibrated reagents (e.g., methylene blue, phenolphthalein, silver nitrate) and handled equipment like burettes, volumetric flasks, heating mantles, and whiteness meters.
